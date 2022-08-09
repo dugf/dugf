@@ -1,7 +1,4 @@
-### Olá! Eu sou o Carlos Eduardo 👋
-
-- 💻 Hoje trabalho com mobile 📱
-- 📚 Estudando Flutter
+### Olá! Seja bem vindo ao meu GitHub! 👋
 
 <div align="center">
   <a href="https://github.com/dugf">
