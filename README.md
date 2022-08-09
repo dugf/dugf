@@ -1,4 +1,4 @@
-### Olá! Sejam bem vindos ao meu GitHub! 👋
+### Olá! Sejam bem vindos ao meu GitHub! 👋🏼
 
 <div align="center">
   <a href="https://github.com/dugf">
